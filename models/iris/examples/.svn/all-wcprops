@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/Manifold/!svn/ver/98/trunk/code/models/iris/examples
+END
+manifold_node.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/Manifold/!svn/ver/113/trunk/code/models/iris/examples/manifold_node.cc
+END
+manifold_node_mpi.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/Manifold/!svn/ver/126/trunk/code/models/iris/examples/manifold_node_mpi.cc
+END
+manifold_node_mpi_3proc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/Manifold/!svn/ver/113/trunk/code/models/iris/examples/manifold_node_mpi_3proc.cc
+END

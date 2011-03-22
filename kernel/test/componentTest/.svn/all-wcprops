@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/Manifold/!svn/ver/116/trunk/code/kernel/test/componentTest
+END
+MessagingTimeTest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/Manifold/!svn/ver/95/trunk/code/kernel/test/componentTest/MessagingTimeTest.cc
+END
+MessagingHalfClockTest_ser_pointer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/Manifold/!svn/ver/116/trunk/code/kernel/test/componentTest/MessagingHalfClockTest_ser_pointer.cc
+END
+MessagingHalfClockTest_ser.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/Manifold/!svn/ver/116/trunk/code/kernel/test/componentTest/MessagingHalfClockTest_ser.cc
+END
+MessagingClockTest_ser_pointer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/Manifold/!svn/ver/116/trunk/code/kernel/test/componentTest/MessagingClockTest_ser_pointer.cc
+END
+MessagingClockTest_ser.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/Manifold/!svn/ver/116/trunk/code/kernel/test/componentTest/MessagingClockTest_ser.cc
+END
+MessagingTimeTest_ser.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/Manifold/!svn/ver/116/trunk/code/kernel/test/componentTest/MessagingTimeTest_ser.cc
+END
+MessagingTimeTest_ser_pointer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/Manifold/!svn/ver/116/trunk/code/kernel/test/componentTest/MessagingTimeTest_ser_pointer.cc
+END
+MessagingHalfTest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/Manifold/!svn/ver/95/trunk/code/kernel/test/componentTest/MessagingHalfTest.cc
+END
+MessagingTest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/Manifold/!svn/ver/95/trunk/code/kernel/test/componentTest/MessagingTest.cc
+END
+MessagingHalfTest_ser_pointer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/Manifold/!svn/ver/116/trunk/code/kernel/test/componentTest/MessagingHalfTest_ser_pointer.cc
+END
+MessagingHalfTest_ser.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/Manifold/!svn/ver/116/trunk/code/kernel/test/componentTest/MessagingHalfTest_ser.cc
+END
+MessagingHalfClockTest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/Manifold/!svn/ver/95/trunk/code/kernel/test/componentTest/MessagingHalfClockTest.cc
+END
+LBTSTest1.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/Manifold/!svn/ver/95/trunk/code/kernel/test/componentTest/LBTSTest1.cc
+END
+MessagingTest_ser_pointer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/Manifold/!svn/ver/116/trunk/code/kernel/test/componentTest/MessagingTest_ser_pointer.cc
+END
+MessagingTest_ser.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/Manifold/!svn/ver/116/trunk/code/kernel/test/componentTest/MessagingTest_ser.cc
+END
+LBTSTest2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/Manifold/!svn/ver/95/trunk/code/kernel/test/componentTest/LBTSTest2.cc
+END
+LBTSTest3.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/Manifold/!svn/ver/95/trunk/code/kernel/test/componentTest/LBTSTest3.cc
+END
+MessagingClockTest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/Manifold/!svn/ver/95/trunk/code/kernel/test/componentTest/MessagingClockTest.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/Manifold/!svn/ver/112/trunk/code/kernel/test/componentTest/Makefile
+END

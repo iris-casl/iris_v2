@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/Manifold/!svn/ver/117/trunk/code/kernel/include/kernel
+END
+manifold.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/Manifold/!svn/ver/112/trunk/code/kernel/include/kernel/manifold.h
+END
+clock.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/Manifold/!svn/ver/112/trunk/code/kernel/include/kernel/clock.h
+END
+link.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/Manifold/!svn/ver/117/trunk/code/kernel/include/kernel/link.h
+END
+manifold-decl.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/Manifold/!svn/ver/112/trunk/code/kernel/include/kernel/manifold-decl.h
+END
+component.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/Manifold/!svn/ver/117/trunk/code/kernel/include/kernel/component.h
+END
+link-decl.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/Manifold/!svn/ver/117/trunk/code/kernel/include/kernel/link-decl.h
+END
+message.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/Manifold/!svn/ver/116/trunk/code/kernel/include/kernel/message.h
+END
+common-defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/Manifold/!svn/ver/112/trunk/code/kernel/include/kernel/common-defs.h
+END
+component-decl.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/Manifold/!svn/ver/117/trunk/code/kernel/include/kernel/component-decl.h
+END
+messenger.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/Manifold/!svn/ver/116/trunk/code/kernel/include/kernel/messenger.h
+END

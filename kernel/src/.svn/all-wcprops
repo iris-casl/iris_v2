@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/Manifold/!svn/ver/116/trunk/code/kernel/src
+END
+clock.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/Manifold/!svn/ver/112/trunk/code/kernel/src/clock.cc
+END
+link.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/Manifold/!svn/ver/112/trunk/code/kernel/src/link.cc
+END
+component.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/Manifold/!svn/ver/112/trunk/code/kernel/src/component.cc
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/Manifold/!svn/ver/112/trunk/code/kernel/src/Makefile.am
+END
+messenger.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/Manifold/!svn/ver/116/trunk/code/kernel/src/messenger.cc
+END
+manifold.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/Manifold/!svn/ver/116/trunk/code/kernel/src/manifold.cc
+END
